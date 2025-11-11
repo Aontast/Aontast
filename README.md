@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ciao! Sono Antonio Di Giorgio
 
-<!--
-**Aontast/Aontast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono studente di Laurea Magistrale in Ingegneria Informatica e ho conseguito la Laurea Triennale nello stesso corso presso l'Università degli Studi di Napoli "Federico II".
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Formazione
+- Laurea Magistrale (in corso) — Ingegneria Informatica
+- Laurea Triennale — Ingegneria Informatica con voto 110 e lode
+
+---
+
+## 🧑‍💻 Competenze tecniche
+- Linguaggi: Python, Java, C/C++, SQL
+- Sviluppo web: HTML, Node.js
+- Sistemi & strumenti: Linux, Git, Docker, VM/Cloud
+- Aree di interesse: Machine Learning, Sistemi Distribuiti, Sicurezza, DevOps, Sistemi Embedded
+
+---
+
+## 🌐 Lingue
+- Italiano (madrelingua)
+- Inglese (livello: intermedio/avanzato)
+
+---
+
+## 📫 Contatti
+- GitHub: https://github.com/Aontast
+<!-- - LinkedIn: (inserisci link LinkedIn) -->
+- Email: antonio.digiorgio2003@hotmail.it
+
+---
