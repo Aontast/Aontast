@@ -25,8 +25,8 @@ I am a Master's degree student in Computer Engineering and I earned a Bachelor's
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/Aontast
-- LinkedIn: https://www.linkedin.com/in/antonio-di-giorgio-82680025b
-- Email: antonio.digiorgio2003@hotmail.it
+- GitHub: \href{https://github.com/Aontast}{github.com/Aontast}
+- LinkedIn: \href{www.linkedin.com/in/antonio-dg}{www.linkedin.com/in/antonio-dg}
+- Email: \href{mailto:antonio.digiorgio2003@hotmail.it}{antonio.digiorgio2003@hotmail.it}
 
 ---
